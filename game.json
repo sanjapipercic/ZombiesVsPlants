@@ -58,7 +58,593 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Attack_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_11.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_12.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Dead_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_11.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_11.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_12.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_12.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_13.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_13.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_14.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_14.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_15.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_15.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_1.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_10.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_2.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_3.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_4.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_5.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_6.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_7.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_8.png",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Zombie Boy_Walk_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_9.png",
+          "name": "gdevelop-asset-store"
+        }
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],

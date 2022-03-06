@@ -61,6 +61,7 @@
     "resources": [
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_1.png",
         "kind": "image",
         "metadata": "",
@@ -69,11 +70,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_1.png",
+=======
+        "file": "assets/Zombie Boy_Attack_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_1.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_2.png",
         "kind": "image",
         "metadata": "",
@@ -82,11 +94,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_2.png",
+=======
+        "file": "assets/Zombie Boy_Attack_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_2.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_3.png",
         "kind": "image",
         "metadata": "",
@@ -95,11 +118,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_3.png",
+=======
+        "file": "assets/Zombie Boy_Attack_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_3.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_4.png",
         "kind": "image",
         "metadata": "",
@@ -108,11 +142,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_4.png",
+=======
+        "file": "assets/Zombie Boy_Attack_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_4.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_5.png",
         "kind": "image",
         "metadata": "",
@@ -121,11 +166,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_5.png",
+=======
+        "file": "assets/Zombie Boy_Attack_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_5.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_6.png",
         "kind": "image",
         "metadata": "",
@@ -134,11 +190,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_6.png",
+=======
+        "file": "assets/Zombie Boy_Attack_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_6.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_7.png",
         "kind": "image",
         "metadata": "",
@@ -147,11 +214,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_7.png",
+=======
+        "file": "assets/Zombie Boy_Attack_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_7.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Attack_8.png",
         "kind": "image",
         "metadata": "",
@@ -160,11 +238,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Attack_8.png",
+=======
+        "file": "assets/Zombie Boy_Attack_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Attack_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Attack_8.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_1.png",
         "kind": "image",
         "metadata": "",
@@ -173,11 +262,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_1.png",
+=======
+        "file": "assets/Zombie Boy_Dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_1.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_10.png",
         "kind": "image",
         "metadata": "",
@@ -186,11 +286,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_10.png",
+=======
+        "file": "assets/Zombie Boy_Dead_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_10.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_11.png",
         "kind": "image",
         "metadata": "",
@@ -199,11 +310,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_11.png",
+=======
+        "file": "assets/Zombie Boy_Dead_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_11.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_11.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_12.png",
         "kind": "image",
         "metadata": "",
@@ -212,11 +334,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_12.png",
+=======
+        "file": "assets/Zombie Boy_Dead_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_12.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_12.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_2.png",
         "kind": "image",
         "metadata": "",
@@ -225,11 +358,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_2.png",
+=======
+        "file": "assets/Zombie Boy_Dead_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_2.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_3.png",
         "kind": "image",
         "metadata": "",
@@ -238,11 +382,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_3.png",
+=======
+        "file": "assets/Zombie Boy_Dead_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_3.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_4.png",
         "kind": "image",
         "metadata": "",
@@ -251,11 +406,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_4.png",
+=======
+        "file": "assets/Zombie Boy_Dead_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_4.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_5.png",
         "kind": "image",
         "metadata": "",
@@ -264,11 +430,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_5.png",
+=======
+        "file": "assets/Zombie Boy_Dead_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_5.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_6.png",
         "kind": "image",
         "metadata": "",
@@ -277,11 +454,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_6.png",
+=======
+        "file": "assets/Zombie Boy_Dead_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_6.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_7.png",
         "kind": "image",
         "metadata": "",
@@ -290,11 +478,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_7.png",
+=======
+        "file": "assets/Zombie Boy_Dead_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_7.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_8.png",
         "kind": "image",
         "metadata": "",
@@ -303,11 +502,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_8.png",
+=======
+        "file": "assets/Zombie Boy_Dead_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_8.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Dead_9.png",
         "kind": "image",
         "metadata": "",
@@ -316,11 +526,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Dead_9.png",
+=======
+        "file": "assets/Zombie Boy_Dead_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Dead_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Dead_9.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_1.png",
         "kind": "image",
         "metadata": "",
@@ -329,11 +550,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_1.png",
+=======
+        "file": "assets/Zombie Boy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_1.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_10.png",
         "kind": "image",
         "metadata": "",
@@ -342,11 +574,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_10.png",
+=======
+        "file": "assets/Zombie Boy_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_10.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_11.png",
         "kind": "image",
         "metadata": "",
@@ -355,11 +598,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_11.png",
+=======
+        "file": "assets/Zombie Boy_Idle_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_11.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_11.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_12.png",
         "kind": "image",
         "metadata": "",
@@ -368,11 +622,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_12.png",
+=======
+        "file": "assets/Zombie Boy_Idle_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_12.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_12.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_13.png",
         "kind": "image",
         "metadata": "",
@@ -381,11 +646,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_13.png",
+=======
+        "file": "assets/Zombie Boy_Idle_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_13.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_13.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_14.png",
         "kind": "image",
         "metadata": "",
@@ -394,11 +670,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_14.png",
+=======
+        "file": "assets/Zombie Boy_Idle_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_14.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_14.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_15.png",
         "kind": "image",
         "metadata": "",
@@ -407,11 +694,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_15.png",
+=======
+        "file": "assets/Zombie Boy_Idle_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_15.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_15.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_2.png",
         "kind": "image",
         "metadata": "",
@@ -420,11 +718,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_2.png",
+=======
+        "file": "assets/Zombie Boy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_2.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_3.png",
         "kind": "image",
         "metadata": "",
@@ -433,11 +742,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_3.png",
+=======
+        "file": "assets/Zombie Boy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_3.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_4.png",
         "kind": "image",
         "metadata": "",
@@ -446,11 +766,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_4.png",
+=======
+        "file": "assets/Zombie Boy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_4.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_5.png",
         "kind": "image",
         "metadata": "",
@@ -459,11 +790,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_5.png",
+=======
+        "file": "assets/Zombie Boy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_5.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_6.png",
         "kind": "image",
         "metadata": "",
@@ -472,11 +814,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_6.png",
+=======
+        "file": "assets/Zombie Boy_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_6.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_7.png",
         "kind": "image",
         "metadata": "",
@@ -485,11 +838,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_7.png",
+=======
+        "file": "assets/Zombie Boy_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_7.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_8.png",
         "kind": "image",
         "metadata": "",
@@ -498,11 +862,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_8.png",
+=======
+        "file": "assets/Zombie Boy_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_8.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Idle_9.png",
         "kind": "image",
         "metadata": "",
@@ -511,11 +886,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Idle_9.png",
+=======
+        "file": "assets/Zombie Boy_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Idle_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Idle_9.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_1.png",
         "kind": "image",
         "metadata": "",
@@ -524,11 +910,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_1.png",
+=======
+        "file": "assets/Zombie Boy_Walk_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_1.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_1.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_10.png",
         "kind": "image",
         "metadata": "",
@@ -537,11 +934,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_10.png",
+=======
+        "file": "assets/Zombie Boy_Walk_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_10.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_10.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_2.png",
         "kind": "image",
         "metadata": "",
@@ -550,11 +958,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_2.png",
+=======
+        "file": "assets/Zombie Boy_Walk_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_2.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_2.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_3.png",
         "kind": "image",
         "metadata": "",
@@ -563,11 +982,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_3.png",
+=======
+        "file": "assets/Zombie Boy_Walk_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_3.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_3.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_4.png",
         "kind": "image",
         "metadata": "",
@@ -576,11 +1006,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_4.png",
+=======
+        "file": "assets/Zombie Boy_Walk_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_4.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_4.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_5.png",
         "kind": "image",
         "metadata": "",
@@ -589,11 +1030,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_5.png",
+=======
+        "file": "assets/Zombie Boy_Walk_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_5.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_5.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_6.png",
         "kind": "image",
         "metadata": "",
@@ -602,11 +1054,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_6.png",
+=======
+        "file": "assets/Zombie Boy_Walk_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_6.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_6.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_7.png",
         "kind": "image",
         "metadata": "",
@@ -615,11 +1078,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_7.png",
+=======
+        "file": "assets/Zombie Boy_Walk_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_7.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_7.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_8.png",
         "kind": "image",
         "metadata": "",
@@ -628,11 +1102,22 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Girl/Zombie Girl_Walk_8.png",
+=======
+        "file": "assets/Zombie Boy_Walk_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_8.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_8.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       },
       {
         "alwaysLoaded": false,
+<<<<<<< HEAD
         "file": "assets/Zombie Girl_Walk_9.png",
         "kind": "image",
         "metadata": "",
@@ -784,6 +1269,16 @@
         "userAdded": false,
         "origin": {
           "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Worlds/Graveyard/Graveyard Background.png",
+=======
+        "file": "assets/Zombie Boy_Walk_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie Boy_Walk_9.png",
+        "smoothed": true,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://resources.gdevelop-app.com/assets/pzUH Pack/Characters/Zombie Boy/Zombie Boy_Walk_9.png",
+>>>>>>> 88ef7fa1faa0b3c24e5bc3cdbc2cea5fd1d6f070
           "name": "gdevelop-asset-store"
         }
       }
